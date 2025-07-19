@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Abdelhak Ettahri]
+# 👋 Hi, I'm Abdelhak Ettahri
 
 🎯 Frontend Developer | React, Next.js, TypeScript | Self-Taught & Passionate
 
@@ -15,7 +15,3 @@
 - [3D iPhone 15 Clone](https://github.com/yourrepo) – Interactive animations, color changer, scroll effects
 
 📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/abdelhak-ettahri-565218358/)
-
----
-
-l
